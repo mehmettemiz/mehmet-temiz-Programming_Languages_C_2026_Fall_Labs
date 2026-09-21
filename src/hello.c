@@ -1,5 +1,4 @@
-. printf("Hello from <mehmet>! \n");printf("Hello from <mehmet>! \n");#include <stdio.h>
-
+#include <stdio.h>
 int main(int argc, char *argv[]) {
   // This is your first C program my friend
   printf("Hello, RTU World from C Lab in 2025!\n");
